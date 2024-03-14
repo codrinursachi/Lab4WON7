@@ -1,0 +1,14 @@
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/bin/Debug/net8.0/Lab4Ex4WON7
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/bin/Debug/net8.0/Lab4Ex4WON7.deps.json
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/bin/Debug/net8.0/Lab4Ex4WON7.runtimeconfig.json
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/bin/Debug/net8.0/Lab4Ex4WON7.dll
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/bin/Debug/net8.0/Lab4Ex4WON7.pdb
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/Lab4Ex4WON7.GeneratedMSBuildEditorConfig.editorconfig
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/Lab4Ex4WON7.AssemblyInfoInputs.cache
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/Lab4Ex4WON7.AssemblyInfo.cs
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/Lab4Ex4WON7.csproj.CoreCompileInputs.cache
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/Lab4Ex4WON7.dll
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/refint/Lab4Ex4WON7.dll
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/Lab4Ex4WON7.pdb
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/Lab4Ex4WON7.genruntimeconfig.cache
+/home/codrin/code/WON7/Lab4WON7/Lab4Ex4WON7/obj/Debug/net8.0/ref/Lab4Ex4WON7.dll
